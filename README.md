@@ -6,7 +6,7 @@
 public class CristianValero extends GitHubUser {
 
   public CristianValero() {
-    super("titianvalero", "Spain");
+    super("CristianValero", "Spain");
 
     this.addLanguage("Java", "Python", "Javascript", "CSS", "PHP", "Arduino");
     this.addExperience("LordCraft", "CFGS DAM");
