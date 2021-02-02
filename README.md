@@ -35,3 +35,4 @@ public abstract class GitHubUser {
   }
 }
 ```
+​<a href="https://twitter.com/titianvalero/" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=CristianValero&show_icons=true&theme=radical"></a> 
