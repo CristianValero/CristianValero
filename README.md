@@ -9,7 +9,7 @@ public class CristianValero extends GitHubUser {
     super("CristianValero", "Spain");
 
     this.addLanguage("Java", "Python", "Javascript", "CSS", "PHP", "Arduino");
-    this.addExperience("LordCraft", "CFGS DAM");
+    this.addExperience("UJI", "CFGS DAM");
   }
 }
 
