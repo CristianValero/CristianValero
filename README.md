@@ -1,4 +1,3 @@
-​<a href="https://twitter.com/titianvalero/" target="blank"><img src="https://img.shields.io/twitter/follow/titianvalero?logo=twitter&style=for-the-badge" alt="titianvalero" /></a> 
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Cristian Valero Abundio</h1>
 <h3 align="center">Software Developer | Continuous learner | Data Analysis Enthusiast</h3>
@@ -96,3 +95,5 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 </div>
 
 <hr>
+
+​<a href="https://twitter.com/titianvalero/" target="blank"><img src="https://img.shields.io/twitter/follow/titianvalero?logo=twitter&style=for-the-badge" alt="titianvalero" /></a> 
