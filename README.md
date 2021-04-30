@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
-    Welcome to my profile. I am currently a software developer interested in artificial intelligence and cloud computing.
+    Welcome to my profile. I am currently a software developer interested in artificial intelligence and cloud computing. I have several projects focused on the creation of APIs and another like AgataBot that mixes cloud computing with artificial intelligence models applied to NLP.
   </em>
 </p>
 
