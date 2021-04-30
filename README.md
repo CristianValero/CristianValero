@@ -36,6 +36,6 @@
 <img align="left" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 </p>
 
-
+<hr>
 
 ​<a href="https://twitter.com/titianvalero/" target="blank"><img src="https://img.shields.io/twitter/follow/titianvalero?logo=twitter&style=for-the-badge" alt="titianvalero" /></a> 
