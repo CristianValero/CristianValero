@@ -59,7 +59,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
-<p align="right">
+<p align="left">
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 </p>
 
