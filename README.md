@@ -26,7 +26,6 @@
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 </p>
 
-<hr>
 <p align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianValero&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CristianValero&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p></p>
