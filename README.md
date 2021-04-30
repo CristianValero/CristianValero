@@ -18,6 +18,10 @@
   </em>
 </p>
 
+<p align="left">
+<img align="left" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+</p>
+
 <hr>
 
 <p align="left">
@@ -25,7 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CristianValero&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p></p>
 
 <hr>
-
-<p align="left">
-<img align="left" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-</p>
