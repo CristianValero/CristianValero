@@ -29,17 +29,14 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ I’m currently Developing **AgataCloud** chatbot infraestructure at **@Giant**<br>
-✔ I’m currently learning **React Native** & **C++**<br>
+✔ I’m currently learning **Flutter** & **C++**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I regularly write posts on [Twitter](https://twitter.com/titianvalero) <br>
 ✔ Ask me about anything, I am happy to help. 😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianValero&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CristianValero&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
