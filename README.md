@@ -60,7 +60,7 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 </div>
 
 <p align="left">
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="left" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 </p>
 
 <hr>
