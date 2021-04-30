@@ -26,14 +26,6 @@
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 </p>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
-
-✔ I’m currently Developing **AgataCloud** chatbot infraestructure at **@Giant**<br>
-✔ I’m currently learning **Flutter** & **C++**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I regularly write posts on [Twitter](https://twitter.com/titianvalero) <br>
-✔ Ask me about anything, I am happy to help. 😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
 <hr>
 <p align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianValero&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
