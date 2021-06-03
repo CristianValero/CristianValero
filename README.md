@@ -7,8 +7,6 @@
 
 <!--Welcome to my Github page! I am Cristian and I am currently finishing my Computer Engineering degree at the university of Girona!  -->
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-
 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Degree.
