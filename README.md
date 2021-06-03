@@ -13,7 +13,6 @@
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Degree.
 - Taking online courses about Data Science, Machine Learning and other technologies.
-- Business practices on [Giant UJI](http://giant.uji.es/) 🚀
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day.
